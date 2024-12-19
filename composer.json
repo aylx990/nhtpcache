@@ -1,0 +1,21 @@
+{
+  "name": "nahuo/nhtpcache",
+  "description": "nhtpcache",
+  "license": "Apache-2.0",
+  "authors": [
+    {
+      "name": "nahuo",
+      "email": "developer@admin@nahuokeji.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.1.0",
+    "topthink/framework": "^6.0.0"
+  },
+  "homepage": "https://gitee.com/guangxi-nahuo-network/nhtpcache",
+  "autoload": {
+    "psr-4": {
+      "nahuo\\cache\\": "src"
+    }
+  }
+}
