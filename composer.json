@@ -10,9 +10,10 @@
   ],
   "require": {
     "php": ">=7.1.0",
-    "topthink/framework": "^6.0.0"
+    "topthink/framework": "^6.0.0",
+    "nahuo/nhtpcache": "^1.0"
   },
-  "homepage": "https://gitee.com/guangxi-nahuo-network/nhtpcache",
+  "homepage": "https://github.com/aylx990/nhtpcache",
   "autoload": {
     "psr-4": {
       "nahuo\\cache\\": "src"
